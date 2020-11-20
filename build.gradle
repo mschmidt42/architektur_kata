@@ -26,22 +26,48 @@ task copyImages(type: Copy){
 }
 */ 
 
+task listKatas {
+    def docdir = "doc"
+    def toIgnore = ['all_katas.adoc']
+    doFirst {
+            def indexFile = new File("$projectDir/$docdir/all_katas.adoc")
+            indexFile.text = """= Architectual Katas
+                |
+                |// configure DE settings for asciidoc
+                |// include::$docdir/config.adoc[]
+                |
+                |""".stripMargin()
+            new File("$docdir/").listFiles().sort().each {file ->
+                def prefixlen = "$docdir/".size()
+                if(file =~ "kata.*\\.adoc" && !file.name.startsWith(".")){
+                    if(!toIgnore.contains(file.name)){
+                        indexFile << "\n"
+                        indexFile << "<<<<\n"
+                        indexFile << "include::${docdir}/${file.name}[]\n"
+                        indexFile << "\n"
+                    }
+                }
+            }
+ 
+        }
+}
+
 asciidoctor {
     sourceDir  file('doc')
-    // dependsOn copyAttachments, createDirectoryListing, listOpen
+    dependsOn listKatas
 
     // baseDirFollowsSourceFile()
 
     attributes \
         'build-gradle': file('build.gradle'),
-    'sourcedir': project.sourceSets.main.java.srcDirs[0],
-    'endpoint-url': 'http://example.org',
-    'imagesdir': 'images',
-    'toc': 'left',
-    'icons': 'font',
-    'setanchors': 'true',
-    'idprefix': '',
-    'idseparator': '-',
-    'docinfo': 'shared',
-    'source-highlighter': 'coderay'
+        'sourcedir': project.sourceSets.main.java.srcDirs[0],
+        'endpoint-url': 'http://example.org',
+        'imagesdir': 'images',
+        'toc': 'left',
+        'icons': 'font',
+        'setanchors': 'true',
+        'idprefix': '',
+        'idseparator': '-',
+        'docinfo': 'shared',
+        'source-highlighter': 'coderay'
 }
