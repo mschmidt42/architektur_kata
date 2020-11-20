@@ -1,0 +1,59 @@
+== use cases
+
+[plantuml, ./usecases, png]
+.Usecase diagram
+....
+@startuml
+left to right direction
+
+actor "Admin" as admin
+
+rectangle General {
+   usecase "edit all data" as UC1
+}
+rectangle Comments {
+   usecase "edit comments" as UC2
+   usecase "publish coments" as UC3
+   usecase "delete coments" as UC4
+}
+
+admin -> UC1
+admin -> UC2
+admin -> UC3
+admin -> UC4
+
+@enduml
+....
+
+
+
+[plantuml, ./usecases2, png]
+.Usecases Pet Owner
+....
+@startuml
+
+:Per Owner: -> (report missing pet)
+:Per Owner: -> (update status)
+:Per Owner: -> (update found)
+(update found) ..> (pay reward)
+:Per Owner: -> (pay reward)
+
+@enduml
+....
+
+
+
+[plantuml, ./usecases3, png]
+.Usecases User 
+....
+@startuml
+
+User -> (register)
+User -> (report mising pet)
+(report mising pet) -> (register) : and
+
+@enduml
+....
+
+#work in progress#
+
