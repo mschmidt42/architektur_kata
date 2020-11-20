@@ -1,4 +1,4 @@
-== use cases
+== Where’s Fluffymon? - Use Cases
 
 [plantuml, ./usecases, png]
 .Usecase diagram
