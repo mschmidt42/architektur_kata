@@ -1,0 +1,93 @@
+== Where’s Fluffymon? - Use Cases
+
+[plantuml, ./usecases, png]
+.Usecase diagram
+....
+@startuml
+# left to right direction
+
+actor "Admin" as admin
+
+rectangle General {
+   usecase "edit all data" as UC1
+}
+rectangle Comments {
+   usecase "edit comments" as UC2
+   usecase "publish coments" as UC3
+   usecase "delete coments" as UC4
+}
+
+admin -> UC1
+admin -> UC2
+admin -> UC3
+admin -> UC4
+
+@enduml
+....
+
+
+
+[plantuml, ./usecases2, png]
+.Usecases Pet Owner
+....
+@startuml
+
+:Pet Owner: -> (report missing pet)
+:Pet Owner: -> (update status)
+:Pet Owner: -> (update found)
+(update found) ..> (pay reward)
+:Pet Owner: -> (pay reward)
+
+@enduml
+....
+
+
+
+[plantuml, ./usecases3, png]
+.Usecases User 
+....
+@startuml
+
+User -> (register)
+User -> (report mising pet)
+(report missing pet) -> (register) : and
+
+@enduml
+....
+
+[plantuml, ./usecases4, png]
+.Usecases Spotter 
+....
+@startuml
+
+Spotter -> (report spotted pet) 
+
+note right of (report spotted pet) 
+image
+location where spotted - GPS or address
+captuerd (boolean)
+location where pet is now
+end note
+
+Spotter -> (remove wrong report) 
+Spotter -> (collect reward) 
+
+@enduml
+....
+
+
+[plantuml, ./usecases5, png]
+.Usecases Misc.
+....
+@startuml
+
+:Registered User: -> (add comment)
+
+:matcher: -> (compare images of found an missing pets)
+:matcher: -> (notify owner if match found)
+
+@enduml
+....
+
+#work in progress#
+
