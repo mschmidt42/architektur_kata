@@ -1,0 +1,12 @@
+= Architectual Katas
+
+// configure DE settings for asciidoc
+// include::doc/config.adoc[]
+
+
+<<<<
+include::doc/eigene/mykata_30.adoc[]
+
+<<<<
+include::doc/eigene/mykata_31.adoc[]
+

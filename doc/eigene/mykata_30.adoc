@@ -1,0 +1,20 @@
+[[section-kata-30]]
+== 30. E-Mitgiedsausweis
+
+Ein Sportverband möchte den Mitgliedsausweis von Papier auf ein elektronisches System umstellen.
+
+*    Anwender: ~ 10.000 Aktive Mitglieder, ehrenamtliche Mitarbeiter in der Verwaltung, Lehrgangs-Leiter, Veranstalter von Turnieren
+*    Anforderungen:
+**        Benutzer müssen ihre eigenen Datn ansehen können
+**        Lehrgangsleiter müssen die Teilnahme an einem Lehrgang bestätigen und sie Damit in den E-Ausweis eintragen können
+**        Veranstalter von Turnieren müssen das Ergebnis der Sieger in den E-Ausweis eintragen können
+**        Mitarbeiter in der Verwaltung müssen Lizenzen in den Ausweis eintragen können. z.B. Trainser-Lizenz, Kampfrichter-lizenz, etc.
+**        Lizenzen haben einen Gültigkeitszeitraum
+**        Das bezahlen der Jahresgebür wird im Papierausweis durch eine Jahressichtmarke dokumentiert. Die bezahlte Jahresgebür muss im E-Asweis sichtbar sein.
+**        Veranstalter von Prüfungen müssen das Prüfungs-Ergebnis im E-Ausweis dokumentieren können.
+*    Zusätzlicher Kontext:
+**        Datenschutz beachten
+**        Migration von Papier-Ausweis auf E-Ausweis beachten. Es wird eine zeitlang beides geben
+**        unterschidliche Geräte zur Anzeige das E-Ausweises bedenken.
+**        Innerhalb des Sportverbandes gibt es verschidene Sportarten, deren Mitglidsausweise leicht voneinander abweichen. Es soll mittelfristig ein E-Ausweis für alle Sportarten angeboten werden
+
