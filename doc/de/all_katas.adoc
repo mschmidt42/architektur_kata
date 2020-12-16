@@ -1,85 +1,85 @@
 = Architectual Katas
 
 // configure DE settings for asciidoc
-// include::doc/de/config.adoc[]
+// include::config.adoc[]
 
 
-<<<<
-include::doc/de/kata_01.adoc[]
+<<<
+include::kata_01.adoc[]
 
 
-<<<<
-include::doc/de/kata_02.adoc[]
+<<<
+include::kata_02.adoc[]
 
 
-<<<<
-include::doc/de/kata_03.adoc[]
+<<<
+include::kata_03.adoc[]
 
 
-<<<<
-include::doc/de/kata_04.adoc[]
+<<<
+include::kata_04.adoc[]
 
 
-<<<<
-include::doc/de/kata_05.adoc[]
+<<<
+include::kata_05.adoc[]
 
 
-<<<<
-include::doc/de/kata_06.adoc[]
+<<<
+include::kata_06.adoc[]
 
 
-<<<<
-include::doc/de/kata_07.adoc[]
+<<<
+include::kata_07.adoc[]
 
 
-<<<<
-include::doc/de/kata_08.adoc[]
+<<<
+include::kata_08.adoc[]
 
 
-<<<<
-include::doc/de/kata_09.adoc[]
+<<<
+include::kata_09.adoc[]
 
 
-<<<<
-include::doc/de/kata_10.adoc[]
+<<<
+include::kata_10.adoc[]
 
 
-<<<<
-include::doc/de/kata_11.adoc[]
+<<<
+include::kata_11.adoc[]
 
 
-<<<<
-include::doc/de/kata_12.adoc[]
+<<<
+include::kata_12.adoc[]
 
 
-<<<<
-include::doc/de/kata_13.adoc[]
+<<<
+include::kata_13.adoc[]
 
 
-<<<<
-include::doc/de/kata_14.adoc[]
+<<<
+include::kata_14.adoc[]
 
 
-<<<<
-include::doc/de/kata_15.adoc[]
+<<<
+include::kata_15.adoc[]
 
 
-<<<<
-include::doc/de/kata_16.adoc[]
+<<<
+include::kata_16.adoc[]
 
 
-<<<<
-include::doc/de/kata_17.adoc[]
+<<<
+include::kata_17.adoc[]
 
 
-<<<<
-include::doc/de/kata_18.adoc[]
+<<<
+include::kata_18.adoc[]
 
 
-<<<<
-include::doc/de/kata_19.adoc[]
+<<<
+include::kata_19.adoc[]
 
 
-<<<<
-include::doc/de/kata_20.adoc[]
+<<<
+include::kata_20.adoc[]
 

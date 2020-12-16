@@ -1,20 +1,23 @@
 [[section-kata-31]]
 == 31. The Consultant Selector
 
-Dein internationales Beratungsunternehmen möchte die Auswahl der Berater / Consultants für Kundenprojekte verbessen. Dafür sollen alle Berate der Unternehmens mit al ihren Erfahrunegn und Projekte in einer Knowlede-Base erfasst wrden
+Ein internationales Beratungsunternehmen möchte die Auswahl der Berater / Consultants für Kundenprojekte verbessen.
+Dafür sollen alle Berate der Unternehmens mit al ihren Erfahrunegn und Projekte in einer Knowlede-Base erfasst werden.
 
 *    Anwender:
+**  _tbd._
+
 *    Anforderungen:
-**        Ein Vertriebsmitarbeiter oder projektleiter muss im System rechercieren können, ob die für ein Projekt gerfordetne kenntnisse im Unternehmen vorhanden sind.
+**        Ein Vertriebsmitarbeiter oder Projektleiter muss im System recherchieren können, ob die für ein Projekt gerforderten Kenntnisse im Unternehmen vorhanden sind.
 **        Es muss möglich sein die Verfügbarkeit der Mitarbeiters abzufragen
-**        Es kann sein, dass für Projekte Einzelne Mitarbeiter, oder ein ganzes Team gesucht wird.
+**        Es kann sein, dass für Projekte einzelne Mitarbeiter, oder ein ganzes Team gesucht wird.
 **        Es sollen Berateprofile aus den Daten erstellt werden können
-**            in unterschiedlichen Formaten und unterschiedlichen Layouts
-**            mit unterschiedlicher Hervorhebung der Kenntnisse des Mitarbeiters
+***            in unterschiedlichen Formaten und unterschiedlichen Layouts
+***            mit unterschiedlicher Hervorhebung der Kenntnisse des Mitarbeiters
 **        Es sollen verschiedene Anschreiben für verschiedene Projekt verwaltet werden können.
 **        Der Mitarbeiter soll seine eigene Daten und Kenntnisse ändern können
 **        Berechtigte Mitarbeiter sollen die Daten anderer Mitarbeiter ändern können.
 
 *    Bonus:
-**        Automatischer Vorschlag der Mitarbeiter die zu eiinem Projekt passe mittels KI
+**        Automatischer Vorschlag der Mitarbeiter, die zu einem Projekt passen, mittels KI
 **        Erweiterte Auswertungen um zu planen, zu welchen Themen mehr Mitarbeiter geschult werden müssen.
