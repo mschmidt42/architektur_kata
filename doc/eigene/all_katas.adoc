@@ -4,9 +4,9 @@
 // include::doc/config.adoc[]
 
 
-<<<<
-include::doc/eigene/mykata_30.adoc[]
+<<<
+include::mykata_30.adoc[]
 
-<<<<
-include::doc/eigene/mykata_31.adoc[]
+<<<
+include::mykata_31.adoc[]
 
