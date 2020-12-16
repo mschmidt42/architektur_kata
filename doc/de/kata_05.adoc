@@ -1,0 +1,23 @@
+[[section-kata-5]]
+== 5. E(xperimental) College
+
+Das örtliche College bietet jetzt zusätzlich zu den üblichen Kursen für Absolventen und Studenten einzigartige Kurse ohne Leistungspunkte an. Sie benötigen ein Registrierungs- und Zahlungssystem
+
+*    Anwender: Studenten, College-Benutzer, Administrator und Buchhaltung
+*    Anforderungen:
+**        Die vorhandene zentrale Schüler- / Klassenregistrierung ist NICHT integrierbar - nur der Zugriff auf das https-Webformular ist zulässig
+**        Zahlungen akzeptieren
+**        Track-Registrierungen
+**        Nicht-Kredit-Registrierungen müssen in der zentralen Registrierung dupliziert werden (aber nicht von Hand!)
+**        Studenten geben das zentrale Register ein, wenn ihre Zahlung erfolgreich ist
+**        Aktualisierungen / Löschungen aus der zentralen Registrierung sind als manueller Vorgang in Ordnung, jedoch vorzugsweise automatisiert
+**        Zahlungen können per Kreditkarte, Abhebung des Bankkontos, Scheck oder Bargeld erfolgen
+**        Kursvoraussetzungen
+**        Studenten können Rechnungen / Quittungen und / oder Transkripte anfordern (die per E-Mail gesendet werden sollten)
+**        Mehrere Schüler melden sich mit einem Kauf für mehrere Klassen an
+**        Administratoren müssen Kurslisten, Zahlungen, aber keine persönlichen Daten der Schüler sehen
+*    Zusätzlicher Kontext:
+**        sehr wenig Budget für IT
+**        “Wie registrieren und bezahlen sie?” war eine vernachlässigte Anforderung für viele Monate
+**        harte Frist für die Klassenanmeldung in 6 Monaten
+

@@ -1,0 +1,19 @@
+[[section-kata-7]]
+== 7. Going Green
+
+Ein großes Elektronikgeschäft möchte in das Elektronikrecyclinggeschäft einsteigen und benötigt ein neues System, um dies zu unterstützen. Kunden können ihre kleinen persönlichen elektronischen Geräte einsenden (oder lokale Kioske im Einkaufszentrum nutzen) und möglicherweise Geld für ihre gebrauchten Geräte erhalten, wenn diese in einwandfreiem Zustand sind.
+
+*    Anwender: Hunderte, hoffentlich Tausende bis Millionen
+*    Anforderungen:
+**        Kunden können ein Angebot für gebrauchte persönliche elektronische Geräte (Telefone, Kameras usw.) entweder über das Internet oder über einen Kiosk in einem Einkaufszentrum erhalten.
+**        Kunden erhalten ein Postfach per Post, senden ihr elektronisches Postfach und erhalten einen Scheck, wenn es in gutem Zustand ist.
+**        Sobald das Gerät eingegangen ist, wird es bewertet (inspiziert), um festzustellen, ob es entweder recycelt (sicher zerstört) oder verkauft (eBay usw.) werden kann.
+**        Das Unternehmen rechnet damit, 5-10 neue Arten von elektronischen Geräten hinzuzufügen, die jeden Monat akzeptiert werden.
+**        Jede Art von Elektronik hat ihre eigenen Regeln für das Zitieren und Bewerten.
+*    Zusätzlicher Kontext:
+**        Dies ist ein hart umkämpftes Geschäft und für uns ein neues Geschäftsfeld
+**        Wenn wir innerhalb eines Jahres keine Art von elektronischem Gerät erhalten haben, werden wir es aus unserem System entfernen
+**        Wir müssen eine Liste elektronischer Geräte führen, die wir akzeptieren möchten, da sie sich häufig ändern
+**        Jedes Gerät hat seine eigenen Bewertungsregeln
+**        Wir haben das Recht, das ursprüngliche Angebot an den Kunden zu ändern, wenn das Produkt nicht in dem von ihm angegebenen Zustand ist
+

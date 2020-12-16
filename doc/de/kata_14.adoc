@@ -1,0 +1,19 @@
+[[section-kata-14]]
+== 14. Room with a View
+
+Ein großes Hotelreservierungsunternehmen möchte das Hotelreservierungs- und -verwaltungssystem der nächsten Generation aufbauen, das speziell auf High-End-Resorts und Spas zugeschnitten ist, in denen Gäste bestimmte Zimmer anzeigen und reservieren können.
+
+*    Anwender: Gäste (Hunderte), Hotelpersonal (weniger als 20)
+*    Anforderungen:
+**        Die Registrierung kann über das Internet, per Handy, Telefonanruf oder Walk-In erfolgen.
+**        Sie können entweder einen Zimmertyp (Standard, Deluxe oder Suite) buchen oder ein bestimmtes Zimmer auswählen, indem Sie Bilder von jedem Zimmer und seiner Lage im Hotel anzeigen.
+**        Das System muss in der Lage sein, den Zimmerstatus (gebucht, verfügbar, bereit zur Reinigung usw.) sowie den Zeitpunkt, zu dem das Zimmer als nächstes benötigt wird, beizubehalten.
+**        Es muss außerdem über modernste Verwaltungsfunktionen für das Housekeeping verfügen, damit das Reinigungs- und Wartungspersonal je nach Priorität und Reservierungsbedarf mit proprietären Geräten, die von der an den Reinigungswagen angebrachten Reservierungsfirma geliefert werden, zu verschiedenen Räumen geleitet werden kann.
+**        Standardreservierungsfunktionen (z. B. Zahlungen, Registrierungsinformationen usw.) werden unter Nutzung des vorhandenen Reservierungssystems ausgeführt.
+**        Das System wird webbasiert sein und von der Reservierungsfirma gehostet.
+*    Zusätzlicher Kontext:
+**        “Die Hochsaison rückt immer näher, daher muss das System schnell einsatzbereit sein, sonst müssen wir bis zum nächsten Jahr warten!”
+**        Das Unternehmen investiert auch stark in Spitzentechnologie wie intelligente Raumschlösser, die über ein Mobiltelefon geöffnet werden
+**        Nur am High-End-Markt interessiert
+**        Vertriebsmitarbeiter haben eine enorme Schlagkraft in der Organisation. Menschen bemühen sich oft, ihre Versprechen wahr zu machen
+

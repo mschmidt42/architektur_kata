@@ -1,0 +1,16 @@
+[[section-kata-12]]
+== 12. Lights, Please
+
+Ein Heimelektronik-Riese möchte ein System für die Heimautomation bauen: Ein- und Ausschalten von Lichtern, Ver- und Entriegeln von Türen, Fernbeobachtung der Kamera und zukünftiges nicht spezifiziertes Verhalten.
+
+*    Anwender: Jedes System wird an Verbraucher (kleine Familien) verkauft, aber das Unternehmen erwartet, in den ersten drei Jahren Tausende dieser Einheiten zu verkaufen.
+*    Anforderungen:
+**        Das System muss so schlüsselfertig wie möglich sein, muss jedoch zum einfachen Kauf in modularen Einheiten (Kamera, Schloss, Thermostat usw.) verkauft werden
+**        Die Geräte müssen über das Internet zugänglich sein (zur Fernüberwachung und zum Fernzugriff). Es wird davon ausgegangen, dass der Benutzer über ein vorhandenes WLAN-Setup (Router und Verbindung) verfügt, auf das er zugreifen kann
+**        Kunden können das System so programmieren, dass die verschiedenen Module nach ihren eigenen Bedürfnissen gesteuert werden.
+**        Die Elektrotechnik für die Einheiten wird von anderen Gruppen übernommen, und die Softwareprotokolle zur Steuerung der Module sind je nach den Anforderungen / Designs Ihrer Architektur flexibel. (Sie übernehmen die Implementierung der Modulseite des Protokolls, sobald Sie es ihnen angegeben haben.)
+*    Zusätzlicher Kontext:
+**        bereit, eine große Summe zu investieren, um diese neue Branche in Gang zu bringen
+**        sammelt Daten von Kunden, die sich für die Erfassung breiterer Statistiken entscheiden
+**        internationales Unternehmen
+

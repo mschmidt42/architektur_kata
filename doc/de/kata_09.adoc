@@ -1,0 +1,19 @@
+[[section-kata-9]]
+== 9. Hot Diggety Dog!
+
+Der örtliche Hot-Dog-Standhändler möchte ein Point-of-Sale-System für seine Hot-Dog-Standbetreiber
+
+*    Anwender: etwa fünfzig Hot-Dog-Standbetreiber, Tausende von Kunden in der Region (über soziale Medien)
+*    Anforderungen:
+**        muss leicht sein - der Laptop ist zu unhandlich, um ihn bei der Herstellung von Hot Dogs auf der Straße effizient zu verwenden
+**        Rabatte berücksichtigen
+**        Verfolgen Sie Verkäufe nach Zeit und Ort
+**        Senden Sie Inventaraktualisierungen an Mitarbeiter der mobilen Bestandsverwaltung (die mit Verbrauchsmaterialien zum Standort fahren).
+**        Bieten Sie eine Social-Media-Integration, damit Kunden benachrichtigt werden können, wenn sich ein Hot-Dog-Stand in der Nähe befindet
+**        Exportieren Sie Informationen in einem Format, das mit Buchhaltungstools importiert werden kann
+*    Zusätzlicher Kontext:
+**        gezwungen, diese Entwicklung durchzuführen, weil die derzeitige Art und Weise, Verkäufe zu verfolgen, zu viel manuellen Aufwand erfordert
+**        Zeit bis zur Fertigstellung ist wichtig
+**        Wichtiger ist es, eine Lösung zu entwickeln, die in 3 Jahren nicht ersetzt werden muss
+**        Keine ernsthaften Budgetbeschränkungen
+

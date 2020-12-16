@@ -1,0 +1,17 @@
+[[section-kata-20]]
+== 20. You Look Good In Print
+
+Eine lokale Kopiergeschäftskette möchte ihren Kunden ein “All-in-One” -Computerlebnis bieten: Erstellen, Bearbeiten, Speichern und Drucken von Dokumenten
+
+*    Anwender: anfangs Tausende in der Stadt, aber möglicherweise Millionen, wenn die Nachfrage wächst
+*    Anforderungen:
+**        browserbasierte oder gelieferte Dokumente
+**        Textverarbeitung
+**        Präsentationen
+**        Dokumentvorlagen (als Startpunkte)
+**        Versionierung
+**        Druckplanung
+**        automatische und manuelle Zahlung für Lagerung, Druck usw.
+*    Zusätzlicher Kontext:
+**        Hauptgrund für diese Initiative ist eine bessere Kundenbindung und -bindung
+**        Aus historischen Gründen wird der Betrieb von einem anderen Unternehmen abgewickelt und reagiert nicht sehr schnell

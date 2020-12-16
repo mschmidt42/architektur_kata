@@ -1,0 +1,20 @@
+[[section-kata-2]]
+== 2. All Stuff, No Cruft
+
+Ein Konferenzorganisator benötigt ein Managementsystem für die Konferenzen, die er sowohl für Redner als auch für Teilnehmer durchführt
+
+*    Anwender: Hunderte von Rednern, Dutzende von Veranstaltungsmitarbeitern, Tausende von Teilnehmern
+*    Anforderungen:
+**        Die Teilnehmer können online auf den Vortragsplan zugreifen, einschließlich der Raumzuweisungen
+**        Sprecher können Gespräche verwalten (eingeben, bearbeiten, ändern)
+**        Teilnehmer stimmen ab (vote up/down)
+**        Der Veranstalter kann die Teilnehmer minutengenau über Zeitplanänderungen informieren (wenn sich die Teilnehmer anmelden).
+**        Jede Konferenz (ein anderes Thema) kann unabhängig gebrandet werden
+**        Sprecher-Folien sind nur für Teilnehmer online zugänglich
+**        Bewertungssystem per Webseite, E-Mail, SMS oder Telefon
+*    Zusätzlicher Kontext:
+**        Die Konferenz läuft in den USA.
+**        Sehr wenig Support-Personal.
+**        “Bursty”-Traffic: hohe Last, wenn eine Konferenz stattfindet.
+**        Der Veranstalter der Konferenz möchte die Website auf einfache Weise für verschiedene Technologieangebote anpassen.
+

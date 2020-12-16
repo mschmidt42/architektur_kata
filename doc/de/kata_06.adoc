@@ -1,0 +1,20 @@
+[[section-kata-6]]
+== 6. Gird the Grid
+
+Ein Unternehmen, das Verwaltungssoftware für Stromnetze entwickelt, muss seine veraltete Softwarelösung aktualisieren und planen, sein Angebot als Plattform zu verkaufen.
+
+*    Anwender: kleine bis mittelgroße Unternehmen auf dem Elektromarkt, die Stromnetze von 100.000 bis 1.900.000 Stromkunden aufnehmen können
+*    Anforderungen:
+**        konfigurierbar für bestimmte Netzbetriebsmerkmale (Bundesland, Steuersätze usw.)
+**        Benutzererfahrung auf dem neuesten Stand der Technik
+**        Dashboards mit Analyseberichten mit nahezu Echtzeitdaten aus dem Raster
+**        Hervorragende Berichtsfunktionen
+**        Hochentwickelte analytikbasierte Engine zur Ermittlung des besten Durchsatzes / Geldes
+**        Verwaltung über Desktop- oder Mobilgeräte
+**        Berichterstattung über Sicherheitsdurchdringungsversuche
+*    Zusätzlicher Kontext:
+**        Zuverlässigkeit von vier Neunen (99,99)
+**        schlüsselfertige Bereitstellung an Remotestandorten
+**        Sicherheit ist ein erstklassiges Anliegen
+**        Das Unternehmen möchte vom Management von Stromnetzen zum Software-Reseller werden
+

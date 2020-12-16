@@ -1,0 +1,18 @@
+[[section-kata-11]]
+== 11. I'll Have the BLT
+
+Ein nationaler Sandwichladen möchte “Fax in Ihrer Bestellung” aktivieren, jedoch stattdessen über das Internet (zusätzlich zu seinem aktuellen Fax-In-Service).
+
+*    Anwender: Tausende, vielleicht eines Tages Millionen
+*    Anforderungen:
+**        Benutzer geben ihre Bestellung auf und erhalten dann Zeit, ihr Sandwich und die Wegbeschreibung zum Geschäft abzuholen (das in mehrere externe Kartendienste integriert werden muss, die Verkehrsinformationen enthalten).
+**        Wenn der Shop einen Lieferservice anbietet, senden Sie den Fahrer mit dem Sandwich an den Benutzer
+**        Zugänglichkeit für mobile Geräte
+**        bieten nationale Tagesaktionen / Specials an
+**        bieten lokale Tagesaktionen / Specials an
+**        Zahlung online oder persönlich / bei Lieferung annehmen
+*    Zusätzlicher Kontext:
+**        Sandwich-Läden sind Franchise-Unternehmen mit jeweils einem anderen Eigentümer.
+**        Die Muttergesellschaft plant in naher Zukunft eine Expansion nach Übersee.
+**        Unternehmensziel ist es, kostengünstige Arbeitskräfte einzustellen, um den Gewinn zu maximieren.
+

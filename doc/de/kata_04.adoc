@@ -1,0 +1,20 @@
+[[section-kata-4]]
+== 4. Check Your Work
+
+Eine Universität hat ihren CS-Kurs stark erweitert und möchte die Einstufung einfacher Programmieraufgaben automatisieren können.
+
+*    Anwender: mehr als 300 Studenten pro Jahr sowie Mitarbeiter und Administrator.
+*    Anforderungen:
+**        Die Schüler müssen in der Lage sein, ihren Quellcode hochzuladen, der ausgeführt und benotet wird
+**        Noten und Läufe müssen dauerhaft und überprüfbar sein
+**        Erforderliches Plagiatserkennungssystem, das den Vergleich mit anderen Einsendungen und die Übermittlung an einen webbasierten Dienst (TurnItIn) umfasst.
+**        Integration in das Learning Management System (LMS) der Universität erforderlich
+**        Der Professor legt das Fälligkeitsdatum und die Fälligkeitszeit fest. Danach werden die Einsendungen abgelehnt
+**        Die Schüler können so viele Versuche einreichen, wie sie möchten, um ihre Note zu verbessern
+**        Professoren legen Bewertungskriterien fest, die Metriken und / oder Tests umfassen können
+*    Zusätzlicher Kontext:
+**        Das LMS der Universität basiert auf Mainframes und ist nur schwer zu ändern
+**        Die Noten werden jedes Jahr von der staatlichen Regulierungsbehörde geprüft
+**        Die Universität hat sehr wenig Budget für IT, da sie ein Ersatzstadion für SportsBall baut
+**        Die Universität hat einen Rekord für die leistungsstärksten CS-Absolventen des Landes
+

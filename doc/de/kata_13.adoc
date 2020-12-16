@@ -1,0 +1,17 @@
+[[section-kata-13]]
+== 13. Make the Grade
+
+Ein sehr großer und bevölkerungsreicher Staat wünscht sich ein neues System zur Unterstützung standardisierter Tests in allen öffentlichen Schulsystemen der Klassen 3-12.
+
+*    Anwender: mehr als 40.000 Studenten, 2000 Schüler, 50 Administratoren.
+*    Anforderungen:
+**        Die Schüler können die Anwendung nur in Testzentren im ganzen Bundesstaat verwenden. Die meisten davon befinden sich in den Schulen, aber nicht alle
+**        Die Schüler sollten in der Lage sein, einen Test abzulegen, und die Ergebnisse sollten schließlich an einem einzigen Ort zusammengefasst werden, der alle Testergebnisse im gesamten Bundesstaat darstellt (nach Schule, Lehrer und Schüler).
+**        Tests werden Multiple-Choice, kurze Antwort und Aufsatz sein.
+**        Das System sollte über ein Berichtssystem verfügen, um zu wissen, welche Schüler an den Tests teilgenommen haben und welche Punktzahl sie erhalten haben.
+**        Kurze Antworten und Textfragen werden von den Lehrern manuell bewertet, die dann die Aufsatznoten zum System hinzufügen.
+*    Zusätzlicher Kontext:
+**        Ein Änderungsgenehmigungsverfahren, an dem drei verschiedene Regierungsbehörden beteiligt sind, ist erforderlich, um die Art und Weise zu ändern, in der die Noten der Schüler aufbewahrt werden, um die Sicherheit zu gewährleisten.
+**        Der Staat besitzt sein Hosting-Center nicht, sondern lagert es an Dritte aus.
+**        Das Projekt muss sein Budget jedes Geschäftsjahr verteidigen.
+

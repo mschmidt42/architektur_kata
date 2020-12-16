@@ -1,0 +1,20 @@
+[[section-kata-19]]
+== 19. World of Webcraft
+
+Ein Unterhaltungsunternehmen möchte, dass ein Ego-Shooter-MMORPG-Spiel über den Browser bereitgestellt wird
+
+*    Anwender: Millionen + (sie hoffen)
+*    Anforderungen:
+**        Benutzer wählen die Karte aus, auf der sie spielen möchten, und spielen sie dann mit zufällig ausgewählten Spielern mit ungefähr gleichen Fähigkeiten aus
+**        Spieler können ihre Charaktere mit Fähigkeiten / Ausrüstung „austricksen“, indem sie dem Unternehmen Geld schicken
+**        Von jedem “modernen” Webbrowser aus verwendbar
+**        Full-Immersion-Erfahrung (Sound, Grafik usw.)
+**        Spieler können mit anderen Spielern “chatten” (Trash Talk), aber nur mit denen, die sich in Reichweite befinden.
+**        Spieler können Turniere nur mit Einladung erstellen
+**        Gäste können alle Spieler beobachten, ohne gesehen zu werden / zu interagieren (Geister)
+**        Spieler können neue Karten, Waffen und Regeln erstellen
+*    Zusätzlicher Kontext:
+**        Die Spieleleistung hat hohe Priorität, die Skalierbarkeit jedoch noch mehr
+**        Wenn dieses Spiel erfolgreich ist, plant das Unternehmen, die guten Teile als Rahmen zu extrahieren, den sie verkaufen können
+**        Der größte Aufwand sind die hochqualifizierten Künstler, die das visuelle Erscheinungsbild erstellen
+

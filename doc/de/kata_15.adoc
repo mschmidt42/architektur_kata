@@ -1,0 +1,17 @@
+[[section-kata-15]]
+== 15. Sysop Squad
+
+Ein Elektronikriese benötigt ein neues Trouble-Ticket-System für seine kundenorientierten IT-Berater (das Sysop Squad) in seinen Filialen im ganzen Land
+
+*    Anwender: Tausende von Kunden, Hunderte von Beratern, Hunderte von Filialmitarbeitern
+*    Anforderungen:
+**        Trouble Tickets können entweder von Call-Center-Rezeptionisten, Filialmitarbeitern oder Kunden online eingegeben werden
+**        Die Tickets werden je nach Standort, Verfügbarkeit und Fähigkeiten an den entsprechenden Berater weitergeleitet
+**        Berater sollten nur ein mobiles Gerät benötigen
+**        Kunden geben nach dem Service eine Beraterbewertung ein
+**        Der Berater verfolgt die in den Kundendatensätzen durchgeführten Arbeiten zur späteren Bezugnahme
+*    Zusätzlicher Kontext:
+**        Die Verfügbarkeit ist entscheidend für den Ruf des Unternehmens
+**        Die Leistung der Site muss sich unter starker Belastung erheblich verschlechtern
+**        Eine gute Weiterleitung von Anfragen ist entscheidend, um Gewinn zu erzielen
+

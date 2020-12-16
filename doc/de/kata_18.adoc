@@ -1,0 +1,18 @@
+[[section-kata-18]]
+== 18. Where's Fluffymon?
+
+Ein Dienst, der vermisste Haustiere, Haustierprämien (vom Dienst vermittelt / verwaltet) und Standortdatenpunkte (GPS) von Haustiersichtungen beschreibt, die Augmented Reality verwenden, um zuletzt gesehene Haustierstandorte zu überlagern
+
+*    Anwender: Dutzende vermisste Tierhalter, Hunderte von “Spottern” (anfangs), je nach Erfolg des Rollouts breiter
+*    Anforderungen:
+**        Benutzer, die Haustiere finden möchten, registrieren sich auf der Website
+**        Jeder kann eine Liste von Haustieren sehen, die in der Nähe seines Standorts fehlen
+**        Tierfinder können “Tier gefunden” -Nachrichten (mit obligatorischem Fotobeweis) posten und Belohnungen auf Bestätigung von Tierbesitzern sammeln
+**        Benutzer können fehlende Einträge für Haustiere kommentieren und Datenpunkte anbieten (gesichtet, Bereich ohne Ergebnisse überprüft usw.)
+**        Zugänglichkeit für mobile Geräte
+*    Zusätzlicher Kontext:
+**        einer von vielen AR-Diensten, die von der Muttergesellschaft eingeführt werden
+**        lokale Skalierbarkeit (pro Stadt), aber möglicherweise auch Skalierung auf andere Städte
+**        Unternehmen möchte eine größere soziale Gemeinschaft um Haustiere schaffen
+**        Potenzielle Werbeeinnahmen von Partnern wie Zoohandlungen haben das Potenzial, Millionen zu verdienen
+

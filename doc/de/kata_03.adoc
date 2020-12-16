@@ -1,0 +1,19 @@
+[[section-kata-3]]
+== 3. Am.I.Sck
+
+Ein Unternehmen möchte ein Softwaresystem aufbauen, das Chat-Krankenschwestern (Beratungsschwestern) unterstützt, die Fragen von Kunden zu potenziellen Gesundheitsproblemen beantworten.
+
+*    Anwender: Über 250 Krankenschwestern weltweit, Hunderttausende von Kunden
+*    Anforderungen:
+**        Zugang zu Krankengeschichten von Patienten
+**        Bereitstellung einer Service-Level-Vereinbarung zur Bearbeitungszeit für die Interaktion
+**        Unterstützung der Krankenschwestern bei der medizinischen Diagnose
+**        Unterstützung von Krankenschwestern, die geografisch von den Kunden abweichen
+**        Kundenkunden ermöglichen, das örtliche medizinische Personal zu erreichen (falls erforderlich), und das örtliche medizinische Personal direkt im Voraus zu kontaktieren (falls erforderlich)
+**        Aktivieren Sie schließlich Teile des Systems für die direkte Verwendung durch Kunden
+*    Zusätzlicher Kontext:
+**        Das Unternehmen entwickelt Softwarelösungen in Nischenbereichen wie diesem
+**        aggressives Wachstum mit VC-Finanzierung in der 2. Runde
+**        Eine schnelle Markteinführung ist das übergeordnete Unternehmensziel, um den Markt zu erobern
+**        Unsere Anwälte haben festgestellt, dass das Gespräch nicht als Krankenakte angesehen wird
+

@@ -1,0 +1,21 @@
+[[section-kata-10]]
+== 10. I Can Haz Cheezborger?
+
+Der Kunde möchte Websites erstellen, um Internet-Trends zu folgen. Wenn ein neuer Trend identifiziert wird, erstellen Sie eine Website, die ihn hervorhebt und verfolgt, und ermöglichen Sie Benutzern die Interaktion mit ihm
+
+*    Anwender: Millionen + Leser, Tausende + Poster, Dutzende Administratoren
+*    Anforderungen:
+**        hohe SEO
+**        Benutzer können problemlos Inhalte hinzufügen
+**        leicht pürierbar / klickbar
+**        unangemessenen Inhalt ablehnen
+**        einfache Trendanalyse
+**        Benutzerforen
+**        Benutzermoderatoren
+**        allgegenwärtige Zugänglichkeit
+**        einfache admin 'erreichbarkeit' / zugänglichkeit
+*    Zusätzlicher Kontext:
+**        VC finanziertes Startup
+**        möchte Daten über Trends hinweg für eine tiefere Marktanalyse sammeln
+**        will in 10 Jahren ein Kraftpaket für Internet-Trends sein
+

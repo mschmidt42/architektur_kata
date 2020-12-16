@@ -1,0 +1,19 @@
+[[section-kata-1]]
+== 1. Agile Dead Trees
+
+Ein Verlag möchte sein Authoring Content Management System (CMS) und das Kundengeschäft vereinheitlichen und versuchen, Bücher so schnell wie möglich für Kunden zu veröffentlichen.
+
+*    Anwender: Dutzende von Verlags-Mitarbeitern, Hunderte von Autoren, Tausende / Millionen von Kunden
+*    Anforderungen:
+**        Autoren veröffentlichen Kapitel
+**        Prüfer sehen sich die Kapitel an, geben Überprüfungskommentare ab und benachrichtigen die Autoren bei der Überprüfung
+**        Autoren können vorgeschlagene Überprüfungsänderungen ablehnen
+**        unterstützt sowohl das Kopieren als auch das technische Bearbeiten
+**        Kunden können Bücher (entweder E-Form oder Form von toten Bäumen) online kaufen, einschließlich solcher, die in der Beta-Version verfügbar sind.
+**        Der Verlag kann die Kapitel der Autoren an diejenigen Kunden weiterleiten, die die Beta gekauft haben.
+*    Zusätzlicher Kontext:
+**        Das Unternehmen ist von dieser Entscheidung getrieben, da Wettbewerber ein ähnliches Angebot haben.
+**        Der Wettbewerb um Autoren ist hart
+**        Dies ist Teil einer langfristigen Strategie zur Modernisierung der Veröffentlichungsaspekte des Geschäfts.
+**        Die für die Veröffentlichung eines Buches erforderlichen Informationen (Vertrieb, Lizenzgebühren, Marketing) stammen aus verschiedenen Systemen, von per E-Mail gesendeten Excel-Tabellen bis hin zur Integration des Mainframes in die Druckeinrichtung.
+

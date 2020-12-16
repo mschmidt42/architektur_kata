@@ -1,0 +1,17 @@
+[[section-kata-17]]
+== 17. The Road Warrior
+
+Ein großes Reisebüro möchte das Online-Trip-Management-Dashboard der nächsten Generation erstellen, damit Reisende alle vorhandenen Reservierungen, die nach Reisen organisiert sind, entweder online oder über ihr Mobilgerät anzeigen können.
+
+*    Anwender: Über 10.000 registrierte Benutzer weltweit
+*    Anforderungen:
+**        Das System muss mit dem vorhandenen System der Agentur für Fluglinien, Hotels und Mietwagen verbunden sein, um Reservierungen automatisch über Vielfliegerkonten, Hotelpunktkonten und Prämienkonten für Mietwagen zu laden.
+**        Kunden sollten in der Lage sein, vorhandene Reservierungen auch manuell hinzuzufügen.
+**        Elemente im Dashboard sollten nach Reise gruppiert werden können. Nach Abschluss der Reise sollten die Elemente automatisch aus dem Dashboard entfernt werden.
+**        Benutzer sollten auch in der Lage sein, ihre Reiseinformationen zu teilen, indem sie eine Schnittstelle zu Standard-Social-Media-Websites herstellen.
+**        Reichhaltigste Benutzeroberfläche für alle Bereitstellungsplattformen
+*    Zusätzlicher Kontext:
+**        muss sich nahtlos in bestehende Reisesysteme integrieren lassen
+**        Es werden Partnerschaftsabkommen ausgehandelt, um „bevorzugte“ Anbieter zu schaffen
+**        muss international arbeiten
+

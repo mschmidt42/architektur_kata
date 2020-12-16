@@ -1,0 +1,19 @@
+[[section-kata-8]]
+== 8. Going...Going...Gone!
+
+Ein Auktionshaus möchte seine Auktionen landesweit online durchführen. Kunden wählen die Auktion aus, warten, bis die Auktion beginnt, und bieten dann mit dem Auktionator, als wären sie im Raum
+
+*    Anwender: Skalieren Sie bis zu Hunderte von Teilnehmern (pro Auktion), möglicherweise bis zu Tausenden von Teilnehmern und so viele gleichzeitige Auktionen wie möglich
+*    Anforderungen:
+**        Auktionen müssen kategorisiert und “auffindbar” sein.
+**        Auktionen müssen so Echtzeit wie möglich sein
+**        Auktionen müssen live und online gemischt werden
+**        Videostream der Aktion nach dem Ende der Auktion
+**        Geldwechsel behandeln
+**        Die Teilnehmer müssen über einen Reputationsindex verfolgt werden
+*    Zusätzlicher Kontext:
+**        Das Auktionsunternehmen expandiert aggressiv, indem es sich mit kleineren Wettbewerbern zusammenschließt
+**        Wenn eine landesweite Auktion erfolgreich ist, replizieren Sie das Modell in Übersee
+**        Das Budget ist nicht beschränkt - dies ist eine strategische Richtung
+**        Das Unternehmen hat gerade eine Klage beendet, in der es eine Klage wegen Betrugs beigelegt hat
+

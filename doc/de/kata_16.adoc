@@ -1,0 +1,21 @@
+[[section-kata-16]]
+== 16. Tales Of A Fourth Grade
+
+Das Unternehmen möchte den Schulbezirken ein umfassendes Studentenmanagementsystem als Service anbieten
+
+*    Anwender: Fakultät, Mitarbeiter und studentische Eltern
+*    Anforderungen:
+**        Verfolgen Sie Abwesenheiten, Verspätungen und Ausreden (eingegeben von Eltern, Fakultät oder Mitarbeitern).
+**        verwalten von 1000 bis 1 Million Studenten
+**        Berichte über studentische Aktivitäten erstellen
+**        vom Spielplatz aus zugänglich sein
+**        Verfolgen Sie die Noten und Aufgaben der Schüler (abgeschlossen und fällig).
+**        Eltern-Lehrer-Foren
+**        Ausführen als SaaS-System von einem Hosting-Center aus
+**        muss die Sicherheitsrichtlinien des FERPA (Family Educational Rights and Privacy Act) einhalten, die unter [https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html] zu finden sind.
+*    Zusätzlicher Kontext:
+**        Das Unternehmen plant eine aggressive nationale Verkaufskampagne
+**        aktueller Wettbewerber durch Datenschutzverletzung beschädigt
+**        neuer CIO
+**        Das Hauptaugenmerk des Marketings liegt auf Flexibilität, Konfigurierbarkeit und (kürzlich hinzugefügter) Sicherheit
+
