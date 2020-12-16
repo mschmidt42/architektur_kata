@@ -1,11 +1,11 @@
 [[section-kata-30]]
-== 30. E-Mitgiedsausweis
+== 30. E-Mitgliedsausweis
 
 Ein Sportverband möchte den Mitgliedsausweis von Papier auf ein elektronisches System umstellen.
 
 *    Anwender: ~ 10.000 Aktive Mitglieder, ehrenamtliche Mitarbeiter in der Verwaltung, Lehrgangs-Leiter, Veranstalter von Turnieren
 *    Anforderungen:
-**        Benutzer müssen ihre eigenen Datn ansehen können
+**        Benutzer müssen ihre eigenen Daten ansehen können
 **        Lehrgangsleiter müssen die Teilnahme an einem Lehrgang bestätigen und sie Damit in den E-Ausweis eintragen können
 **        Veranstalter von Turnieren müssen das Ergebnis der Sieger in den E-Ausweis eintragen können
 **        Mitarbeiter in der Verwaltung müssen Lizenzen in den Ausweis eintragen können. z.B. Trainser-Lizenz, Kampfrichter-lizenz, etc.
