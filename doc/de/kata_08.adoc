@@ -1,5 +1,5 @@
 [[section-kata-8]]
-== 8. Going...Going...Gone!
+== 8. Going...Going...Gone! / 3 ... 2 ... 1 ...
 
 Ein Auktionshaus möchte seine Auktionen landesweit online durchführen. Kunden wählen die Auktion aus, warten, bis die Auktion beginnt, und bieten dann mit dem Auktionator, als wären sie im Raum
 

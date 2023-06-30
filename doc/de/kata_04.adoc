@@ -1,7 +1,7 @@
 [[section-kata-4]]
-== 4. Check Your Work
+== 4. Check Your Work / Verifiziere deine Arbeit
 
-Eine Universität hat ihren CS-Kurs stark erweitert und möchte die Einstufung einfacher Programmieraufgaben automatisieren können.
+Eine Universität hat ihren Computer Science-Kurs stark erweitert und möchte die Einstufung einfacher Programmieraufgaben automatisieren können.
 
 *    Anwender: mehr als 300 Studenten pro Jahr sowie Mitarbeiter und Administrator.
 *    Anforderungen:
@@ -17,4 +17,3 @@ Eine Universität hat ihren CS-Kurs stark erweitert und möchte die Einstufung e
 **        Die Noten werden jedes Jahr von der staatlichen Regulierungsbehörde geprüft
 **        Die Universität hat sehr wenig Budget für IT, da sie ein Ersatzstadion für SportsBall baut
 **        Die Universität hat einen Rekord für die leistungsstärksten CS-Absolventen des Landes
-

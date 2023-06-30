@@ -1,18 +1,17 @@
 [[section-kata-11]]
-== 11. I'll Have the BLT
+== 11. I'll Have the BLT / Ein Schinkensandwitch Bitte
 
-Ein nationaler Sandwichladen möchte “Fax in Ihrer Bestellung” aktivieren, jedoch stattdessen über das Internet (zusätzlich zu seinem aktuellen Fax-In-Service).
+Ein nationaler Sandwichladen möchte "Bestellen über das Internet" erlauben.
 
 *    Anwender: Tausende, vielleicht eines Tages Millionen
-*    Anforderungen:
-**        Benutzer geben ihre Bestellung auf und erhalten dann Zeit, ihr Sandwich und die Wegbeschreibung zum Geschäft abzuholen (das in mehrere externe Kartendienste integriert werden muss, die Verkehrsinformationen enthalten).
-**        Wenn der Shop einen Lieferservice anbietet, senden Sie den Fahrer mit dem Sandwich an den Benutzer
-**        Zugänglichkeit für mobile Geräte
-**        bieten nationale Tagesaktionen / Specials an
-**        bieten lokale Tagesaktionen / Specials an
-**        Zahlung online oder persönlich / bei Lieferung annehmen
-*    Zusätzlicher Kontext:
-**        Sandwich-Läden sind Franchise-Unternehmen mit jeweils einem anderen Eigentümer.
-**        Die Muttergesellschaft plant in naher Zukunft eine Expansion nach Übersee.
-**        Unternehmensziel ist es, kostengünstige Arbeitskräfte einzustellen, um den Gewinn zu maximieren.
-
+*   Anforderungen:
+**      Benutzer geben ihre Bestellung auf, erhalten dann eine Uhrzeit für die Abholung ihres Sandwichs und eine Wegbeschreibung zum Geschäft (die mit mehreren externen Kartendiensten mit Verkehrsinformationen integriert werden muss)
+**      Wenn der Laden einen Lieferservice anbietet, wird der Fahrer mit dem Sandwich zum Nutzer geschickt
+**      Unterstützng für Bestellung über mobile Endgeräte
+**      Angebot von nationalen Tagesangeboten/Specials
+**      Unterstützng für lokale Tagesangebote und Sonderaktionen
+**      Zahlung online oder persönlich/bei der Lieferung oder Abholung akzeptieren
+* Zusätzlicher Kontext:
+**      Die Sandwich-Läden sind Franchisebetriebe, jeder mit einem anderen Eigentümer.
+**      Die Muttergesellschaft plant in naher Zukunft eine Expansion nach Übersee.
+**      Das Unternehmensziel ist es, billige Arbeitskräfte einzustellen, um den Gewinn zu maximieren.
