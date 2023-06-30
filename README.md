@@ -1,5 +1,8 @@
 # README
 
+Architectural Katas
+With translation to German
+
 ```
 data = """\
 ... all cata text
